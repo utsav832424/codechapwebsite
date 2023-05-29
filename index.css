@@ -228,8 +228,7 @@ body{
     font-family: satisfy;
     font-size: 40px;
     color: #F87204;
-    margin-bottom: 20px;
-    margin-top: 150px;
+    margin: 150px 0px 60px 0px;
 }
 .teaching_located{
     font-family: satisfy;
@@ -263,7 +262,7 @@ body{
     font-family: satisfy;
     font-size: 40px;
     color:black;
-    margin: 0;
+    margin: 10px 0px 50px 0px;
 }
 .wedo-teaching_b{
     font-family: satisfy;
@@ -651,6 +650,7 @@ span{
     color:darkslateblue;
     font-size: 25px;
     text-align: center;
+    margin: 10px 0px 50px 0px;
 }
 
 .web-dev{
@@ -1090,7 +1090,7 @@ span{
     padding: 40px;
     margin-right: 100px;
     border-radius: 10px;
-    margin-top: 170px;
+    margin: 170px 20px 0px 0px;
     animation: fadeInRight ease-in 2s;
     transition: opacity 1s;
 }
@@ -1289,6 +1289,7 @@ span{
     align-items: center;
     animation: fadeInLeft ease-in 2s;
     transition: opacity 1s;
+    margin: 100px 0px 70px 0px;
 }
 .counter_home{
     display: flex;
@@ -1349,7 +1350,7 @@ span{
 }
 
 .imgtxtnode{
-    margin: 30px 0px 30px 0px;
+    margin: 40px 0px 40px 0px;
     display: flex;
     flex-direction: column;
     align-items: center;
