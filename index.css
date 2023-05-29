@@ -39,7 +39,7 @@ body{
     text-decoration: none;
 }
 .li-top a:active{
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
 }
 .li-top a:hover{
     color: red;
@@ -227,7 +227,7 @@ body{
 .located{
     font-family: satisfy;
     font-size: 40px;
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     margin: 150px 0px 60px 0px;
 }
 .teaching_located{
@@ -239,7 +239,7 @@ body{
 .wedo{
     font-family: satisfy;
     font-size: 40px;
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     margin-bottom: 0;
     margin-top: 80px;
 }
@@ -318,7 +318,7 @@ body{
 .info{
     display: flex;
     height: 35%;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     position: relative;
     flex-direction: initial;
     flex-wrap: initial;
@@ -376,7 +376,7 @@ body{
 
     display: flex;
     height: 38%;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     position: relative;
     flex-direction: initial;
     flex-wrap: initial;
@@ -473,7 +473,7 @@ body{
 
     display: flex;
     height: 38%;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     position: relative;
     flex-direction: initial;
     flex-wrap: initial;
@@ -573,7 +573,7 @@ span{
     transition: opacity 1s;
 }
 .h2{
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     margin-bottom: 0;
 }
 
@@ -707,13 +707,13 @@ span{
 
 .web-dev:hover{
     color: white;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     box-shadow: 1px 1px 30px darkgray;
 }
 
 .web-dev_teaching:hover{
     color: white;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     box-shadow: 1px 1px 30px darkgray;
 }
 
@@ -977,7 +977,7 @@ span{
     align-items: center;
     justify-content: center;
     margin-top: 20px;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -1052,7 +1052,7 @@ span{
 .formp{
    font-size: 30px;
    font-weight: 800;
-   color: #F87204;
+   color: rgb(0, 71, 111, 1);
    text-align: center;
    margin-bottom: 0;
 }
@@ -1069,7 +1069,7 @@ span{
 }
 .boxphone_title{
     text-align: center;
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     font-size: 25px;
     margin-bottom: 5px;
 }
@@ -1102,7 +1102,7 @@ span{
 .input_box{
     height: 50px;
     width: 500px;
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     margin-bottom: 15px;
     margin-top: 5px;
     font-size: 15px;
@@ -1110,7 +1110,7 @@ span{
 .input_box_textarea{
     height: 50px;
     width: 500px;
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     margin-bottom: 15px;
     border-radius: 2px;
     margin-top: 5px;
@@ -1121,7 +1121,7 @@ span{
 .sendme{
     height: 50px;
     width: 100px;
-    background-color: #F87204;
+    background-color: rgb(0, 71, 111, 1);
     color: white;
     border: none;
     border-radius: 5px;
@@ -1314,7 +1314,7 @@ span{
     flex-direction: column;
 }
 .counter_p{
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     font-size: 30px;
     text-align: center;
     margin-top: 0;
@@ -1337,7 +1337,7 @@ span{
 }
 
 .p_slider_title{
-    color: #F87204;
+    color: rgb(0, 71, 111, 1);
     font-size: 25px;
     font-weight: 500;
 }
