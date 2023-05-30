@@ -27,7 +27,7 @@ body{
    align-items: center;
    padding: 0px 15px;
    text-decoration: none;
-   font-size: 25px;
+   font-size: 20px;
    text-align: center;
    color: white;
    font-family: satisfy;
@@ -169,8 +169,8 @@ body{
     height: auto;
     margin-top: 20px;
     margin-left: 85px;
-    height: 160px;
-    width: 250px;
+    /* height: 160px;
+    width: 250px; */
 }
 .text{
     color: aliceblue;
@@ -228,7 +228,7 @@ body{
     font-family: satisfy;
     font-size: 40px;
     color: rgb(0, 71, 111, 1);
-    margin: 150px 0px 60px 0px;
+    margin: 165px 0px 60px 0px;
 }
 .teaching_located{
     font-family: satisfy;
@@ -543,7 +543,7 @@ span{
 .block{
     display: flex;
     justify-content: space-around;
-    margin-top: 40px;
+    margin-top: 100px;
 }
 
 .content1{
@@ -852,7 +852,7 @@ span{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items:center ;
-    margin-top: 150px;
+    margin-top: 285px;
 }
 
 .card1{
@@ -1289,7 +1289,7 @@ span{
     align-items: center;
     animation: fadeInLeft ease-in 2s;
     transition: opacity 1s;
-    margin: 100px 0px 70px 0px;
+    margin: 120px 0px 70px 0px;
 }
 .counter_home{
     display: flex;
@@ -1346,7 +1346,7 @@ span{
     font-weight: 700;
     text-align: center;
     font-size: 35px;
-    margin: 10px 0px 20px 0px;
+    margin: 30px 0px 20px 0px;
 }
 
 .imgtxtnode{
@@ -1360,4 +1360,31 @@ span{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+}
+.portfolflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 120px 0px 80px 0px;
+}
+
+.box{
+    width: 300px;
+    height: 260px;
+    box-shadow: 0.5px 0.5px 10px darkgray;
+}
+/* .box:hover{
+    transform: scale(1.08);
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+} */
+.portfolflex .box img{
+    width: 300px;
+    height: 200px;
+}
+.portfolflex .box:hover{
+    transform: scale(1.08);
+    box-shadow: 0px 0 30px darkgray;
+}
+.portfolflex .box h3{
+   margin: 15px 0px 0px 10px;
 }
