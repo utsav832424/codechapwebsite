@@ -49,7 +49,7 @@ body{
 }
 
 .back{
-    background-image: url("assets/back5.png");
+    background-image: url("assets/back6.png");
     background-position:left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -207,6 +207,7 @@ body{
     animation: fadeInLeft ease-in 2s;
     transition: opacity 1s;
     height: 450px;
+    margin-top: 60px;
 }
 
 .layer1{
@@ -356,7 +357,7 @@ body{
 .info_3{
     display: flex;
     height: 35%;
-    background-color: #383434;
+    background-color: rgb(0, 71, 111, 1);
     position: relative;
     flex-direction: initial;
     flex-wrap: initial;
@@ -366,7 +367,7 @@ body{
     align-content: center;
     justify-content: center;
     border-radius: 10px;
-    border: 2px solid;
+    /* border: 2px solid; */
     animation: fadeInRight ease-in 2s;
     transition: opacity 1s;
     padding: 10px;
@@ -608,8 +609,8 @@ span{
     color: white;
     font-size: 21px;
     text-align: center;
-    margin-top: 220px;
-    margin-left: 45px;
+    margin: 220px 15px 0px 75px;
+
 }
 
 .home-img{
@@ -882,7 +883,7 @@ span{
 .card2{
     display: flex;
     flex-wrap: wrap;
-    background-color:#383434 ;
+    background-color:rgb(0, 71, 111, 1);
     color: white;
     padding: 20px;
     height: 10%;
@@ -910,7 +911,7 @@ span{
 .card4{
     display: flex;
     flex-wrap: wrap;
-    background-color:#383434 ;
+    background-color:rgb(0, 71, 111, 1);
     color: white;
     padding: 20px;
     height: 10%;
@@ -941,7 +942,7 @@ span{
 .card6{
     display: flex;
     flex-wrap: wrap;
-    background-color:#383434 ;
+    background-color:rgb(0, 71, 111, 1);
     color: white;
     padding: 20px;
     height: 10%;
